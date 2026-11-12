@@ -1,21 +1,21 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&section=header&text=75%20HASHS%20MAGIQUES%20MD5&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Collection%20vérifiée%20(format%200e%2Bchiffres)&descAlignY=58&descSize=18&descColor=FFFFFF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:FF00FF&height=200&section=header&text=81%20HASHS%20MAGIQUES%20MD5&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Collection%20v%C3%A9rifi%C3%A9e%20(format%200e%2Bchiffres)&descAlignY=58&descSize=18&descColor=FFFFFF)
 
 <p>
-  <img src="https://img.shields.io/badge/Total-75%20hashs-FF1493?style=for-the-badge&logo=shield&logoColor=white&labelColor=FF00FF" alt="Total">
-  <img src="https://img.shields.io/badge/Format-0e%E2%80%8B%2B%E2%80%8Bchiffres-FF69B4?style=for-the-badge&labelColor=FF1493&color=FF00FF" alt="Format">
-  <img src="https://img.shields.io/badge/Statut-Vérifié%20%E2%9C%85-FF1493?style=for-the-badge&labelColor=FF69B4&color=FF00FF" alt="Statut">
+  <img src="https://img.shields.io/badge/Total-81%20hashs-FF1493?style=for-the-badge&logo=shield&logoColor=white&labelColor=FF00FF" alt="Total">
+  <img src="https://img.shields.io/badge/Format-0e%2Bchiffres-FF69B4?style=for-the-badge&labelColor=FF1493&color=FF00FF" alt="Format">
+  <img src="https://img.shields.io/badge/Statut-V%C3%A9rifi%C3%A9%20%E2%9C%85-FF1493?style=for-the-badge&labelColor=FF69B4&color=FF00FF" alt="Statut">
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=75+hashs+magiques+MD5;Format+0e%2Bchiffres;Type+Juggling+PHP;%C3%89ducatif+uniquement" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=81+hashs+magiques+MD5;Format+0e%2Bchiffres;Type+Juggling+PHP;%C3%89ducatif+uniquement" alt="Typing SVG">
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-8.0%2B-FF69B4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-%E2%89%A4%207.4-FF69B4?style=flat-square&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3.10%2B-FF1493?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Licence-Éducatif-FF00FF?style=flat-square" alt="Licence">
+  <img src="https://img.shields.io/badge/Licence-%C3%89ducatif-FF00FF?style=flat-square" alt="Licence">
   <img src="https://img.shields.io/badge/CTF-Friendly-FF69B4?style=flat-square" alt="CTF">
 </p>
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📋 Les 75 hashs magiques
+## 📊 Les 81 hashs magiques
 
 | # | Plaintext | MD5 |
 | :-- | :--- | :--- |
@@ -85,25 +85,31 @@
 | 54 | `10211241566` | `0e774611123738586179048732399635` |
 | 55 | `10225463647` | `0e015242163609295305276083217174` |
 | 56 | `10287355954` | `0e411239476564020634633473497257` |
-| 57 | `240610708` | `0e462097431906509019562988736854` |
-| 58 | `QNKCDZO` | `0e830400451993494058024219903391` |
-| 59 | `aabg7XSs` | `0e087386482136013740957780965295` |
-| 60 | `aabC9RqS` | `0e041022518165728065344349536299` |
-| 61 | `s878926199a` | `0e545993274517709034328855841020` |
-| 62 | `s155964671a` | `0e342768416822451524974117254469` |
-| 63 | `s214587387a` | `0e848240448830537924465865611904` |
-| 64 | `s1091221200a` | `0e940624217856561557816327384675` |
-| 65 | `s1885207154a` | `0e509367213418206700842008763514` |
-| 66 | `s1502113478a` | `0e861580163291561247404381396064` |
-| 67 | `s1836677006a` | `0e481036490867661113260034900752` |
-| 68 | `s1184209335a` | `0e905666011466565646953430313250` |
-| 69 | `s17264218391a` | `0e038989440790588648477173007965` |
-| 70 | `s1678002213a` | `0e287055845310128635335836408640` |
-| 71 | `s1527306205a` | `0e974173155318306347801603616512` |
-| 72 | `s1688270553a` | `0e617536506419105682070744019968` |
-| 73 | `s1595011812a` | `0e305942023120380306511017932800` |
-| 74 | `s1471716654a` | `0e086346898477682758312247345152` |
-| 75 | `s1763688663a` | `0e247479297721158422074522271744` |
+| 57 | `10466171783` | `0e246207889358765483639691072860` |
+| 58 | `10475703109` | `0e157698657789000430703849827973` |
+| 59 | `10555404972` | `0e837224108389051334419352067584` |
+| 60 | `10698777804` | `0e678901216436318426259343504524` |
+| 61 | `10837141738` | `0e156139951314462092685017943983` |
+| 62 | `240610708` | `0e462097431906509019562988736854` |
+| 63 | `QNKCDZO` | `0e830400451993494058024219903391` |
+| 64 | `aabg7XSs` | `0e087386482136013740957780965295` |
+| 65 | `aabC9RqS` | `0e041022518165728065344349536299` |
+| 66 | `s878926199a` | `0e545993274517709034328855841020` |
+| 67 | `s155964671a` | `0e342768416822451524974117254469` |
+| 68 | `s214587387a` | `0e848240448830537924465865611904` |
+| 69 | `s1091221200a` | `0e940624217856561557816327384675` |
+| 70 | `s1885207154a` | `0e509367213418206700842008763514` |
+| 71 | `s1502113478a` | `0e861580163291561247404381396064` |
+| 72 | `s1836677006a` | `0e481036490867661113260034900752` |
+| 73 | `s1184209335a` | `0e905666011466565646953430313250` |
+| 74 | `s17264218391a` | `0e038989440790588648477173007965` |
+| 75 | `s1678002213a` | `0e287055845310128635335836408640` |
+| 76 | `s1527306205a` | `0e974173155318306347801603616512` |
+| 77 | `s1688270553a` | `0e617536506419105682070744019968` |
+| 78 | `s1595011812a` | `0e305942023120380306511017932800` |
+| 79 | `s1471716654a` | `0e086346898477682758312247345152` |
+| 80 | `s1763688663a` | `0e247479297721158422074522271744` |
+| 81 | `s1397092912a` | `0e814186103977102215471549235200` |
 
 ---
 
